@@ -1,0 +1,58 @@
+  [ {
+   "nombre": "Lautaro",
+   "apellido": "Rechert", 
+   "edad": 21,
+   "precioAsiento":253.99,
+   "destino":"Londres",
+   "pagado": true,
+   "Asiento":{
+      "numero": 12,
+      "letra":"f",
+      "cargador": false
+   },
+   "historial":[
+"vuelos anteriores",
+{
+"salida":"Buenos Aires",
+"destino": "Roma",
+"fecha": "16/10/18"
+},
+{
+   "salida":"Roma",
+   "destino": "Buenos Aires",
+   "fecha": "22/10/18"
+   }
+   
+
+   ]
+},
+[
+   {
+      "nombre": "Veronica",
+      "apellido": "Rechert", 
+      "edad": 21,
+      "precioAsiento":253.99,
+      "destino":"Londres",
+      "pagado": true,
+      "Asiento":{
+         "numero": 13,
+         "letra":"f",
+         "cargador": false
+      },
+      "historial":[
+   "vuelos anteriores",
+   {
+   "salida":"Buenos Aires",
+   "destino": "Roma",
+   "fecha": "16/10/18"
+   },
+   {
+      "salida":"Roma",
+      "destino": "Buenos Aires",
+      "fecha": "22/10/18"
+      }
+      ]
+
+}
+]
+  ]
